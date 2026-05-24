@@ -26,8 +26,7 @@
     "id": "highway",
     "vehicles": [
       [ "military_short_semi", 300 ],
-	  [ "mobile_command_unit", 300 ],
-	  [ "hover_humvee", 400 ]
+	  [ "mobile_command_unit", 300 ]
     ]
   },
   {
@@ -35,8 +34,7 @@
     "id": "military_vehicles",
     "vehicles": [
       [ "military_short_semi", 50 ],
-	  [ "mobile_command_unit", 300 ],
-	  [ "hover_humvee", 400 ]
+	  [ "mobile_command_unit", 300 ]
     ]
   }
 ]
