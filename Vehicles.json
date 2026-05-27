@@ -1021,5 +1021,244 @@
         "part": "wing_mirror_left"
       }
     ]
+  },
+  {
+    "id": "hover_ambulance_mk1",
+    "type": "vehicle",
+    "name": "Hover Ambulance Mk.1",
+    "parts": [
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_vertical_2", "seat", "seatbelt", "controls", "dashboard", "vehicle_clock", "vehicle_alarm", "horn_big", "roof", "cam_control" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_vertical_2", "seat", "seatbelt", "roof" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_vertical", "door_opaque" ]
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "parts": [ "frame_vertical", "door_opaque" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "reinforced_windshield_horizontal_front", "omnicam" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "reinforced_windshield_horizontal_front" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "frame_horizontal", "reinforced_windshield_horizontal_front" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "parts": [ "frame_vertical", "reinforced_windshield_nw" ]
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "parts": [ "frame_vertical", "reinforced_windshield_ne" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "frame_cover", "engine_v8", "alternator_truck", "battery_car", "halfboard_cover" ]
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "parts": [ "frame_nw", "headlight", "halfboard_nw", "hover_repulsor" ]
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "parts": [ "frame_ne", "headlight", "halfboard_ne", "hover_repulsor" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "light_red", "board_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "door_internal", "floodlight" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_horizontal", "light_red", "board_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_sw", { "part": "tank", "fuel": "gasoline" }, "board_vertical", "omnicam" ]
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "parts": [ "frame_se", { "part": "tank", "fuel": "gasoline" }, "board_vertical", "omnicam" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal", "reinforced_solar_panel" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_vertical", "reclining_seat", "roof", "solar_panel_v2" ]
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "parts": [ "frame_vertical", "lit_aisle_vertical", "roof", "reinforced_solar_panel" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_vertical", "roof", "door_sliding" ]
+      },
+      {
+        "x": -2,
+        "y": 3,
+        "parts": [ "frame_vertical", "roof", "door_sliding" ]
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "parts": [ "frame_vertical", "bed", "roof" ]
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "parts": [ "frame_vertical", "aisle_vertical", "roof" ]
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "parts": [ "frame_vertical", "roof", "door_sliding" ]
+      },
+      {
+        "x": -3,
+        "y": 3,
+        "parts": [ "frame_vertical", "roof", "door_sliding" ]
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "parts": [ "frame_vertical", "roof", "box" ]
+      },
+      {
+        "x": -4,
+        "y": 1,
+        "parts": [ "frame_vertical", "roof", "box" ]
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "parts": [ "frame_vertical", "roof", "box" ]
+      },
+      {
+        "x": -4,
+        "y": -1,
+        "parts": [ "frame_vertical", "roof", "board_vertical" ]
+      },
+      {
+        "x": -4,
+        "y": 3,
+        "parts": [ "frame_vertical", "roof", "board_vertical" ]
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", "light_red", "board_horizontal" ]
+      },
+      {
+        "x": -5,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", "board_horizontal", "omnicam" ]
+      },
+      {
+        "x": -5,
+        "y": 2,
+        "parts": [ "frame_horizontal", "beeper", "roof", "light_red", "board_horizontal" ]
+      },
+      {
+        "x": -5,
+        "y": -1,
+        "parts": [ "frame_sw", "roof", "board_sw", "hover_repulsor" ]
+      },
+      {
+        "x": -5,
+        "y": 3,
+        "parts": [ "frame_se", "roof", "board_se", "hover_repulsor" ]
+      }
+    ]
+  },
+  {
+    "id": "prototype_glider",
+    "type": "vehicle",
+    "name": "Prototype Glider",
+    "parts": [
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_vertical", "seat_leather", "engine_turbine_small", "drive_by_wire_controls", "controls_electronic", "controls", "bomber controls" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_cross", "hover_repulsor", { "part": "tank_small", "fuel": "jp8" } ]
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_cross", "hover_repulsor", { "part": "tank_small", "fuel": "jp8" } ]
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "part": "afs_lightweight_frame_horizontal"
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "part": "afs_lightweight_frame_horizontal"
+      }
+    ]
   }
 ]

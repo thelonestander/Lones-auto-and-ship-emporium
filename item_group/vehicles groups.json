@@ -36,5 +36,19 @@
       [ "military_short_semi", 50 ],
 	  [ "mobile_command_unit", 300 ]
     ]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "city_vehicles",
+    "vehicles": [
+      [ "hover_ambulance_mk1", 300 ],
+    ]
+  },
+  {
+    "id": "pump_station_vehicles",
+    "type": "vehicle_group",
+    "vehicles": [
+      [ "hover_ambulance_mk1", 150 ]
+    ]
   }
 ]

@@ -1,0 +1,21 @@
+[
+{
+    "type": "profession",
+    "id": "richkid_villian_dad",
+    "name": "The Goblin",
+    "description": "You were one of the chief executives of a big megacorp. Your dad died mysteriously in a foodplace factory. You blame foodperson. Find them.",
+    "points": 8,
+    "CBMs": [ "bio_batteries", "bio_power_storage_mkII", "bio_eye_enhancer", "bio_int_enhancer", "bio_memory", "bio_cable" ],
+    "skills": [ { "level": 6, "name": "speech" }, { "level": 6, "name": "computer" } ],
+    "starting_cash": 400000000,
+	"vehicle": "prototype_glider",
+    "items": {
+      "both": {
+        "items": [ "tux", "dress_shoes", "socks", "gold_watch", "undershirt", "sword_carbon", "armored_cloak" ],
+        "entries": [ { "item": "afs_wraitheon_smartphone" } ]
+      },
+      "male": [ "briefs", "collarpin", "diamond_ring" ],
+      "female": [ "panties", "hairpin", "pearl_collar" ]
+    }
+  }
+]

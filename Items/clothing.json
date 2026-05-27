@@ -1,0 +1,24 @@
+[
+{
+    "id": "armored_cloak",
+    "type": "ARMOR",
+    "name": { "str": "armored cloak" },
+    "description": "A heavy cloak meant to be thrown over your body, custom modified",
+    "weight": "1175 g",
+    "volume": "3 L",
+    "price": "107 USD",
+    "price_postapoc": "5 USD",
+    "to_hit": -1,
+    "material": [ "kevlar" ],
+    "symbol": "[",
+    "looks_like": "cloak",
+    "color": "green",
+    "covers": [ "torso", "arms", "legs" ],
+    "coverage": 65,
+    "encumbrance": 4,
+    "warmth": 30,
+    "material_thickness": 2,
+    "environmental_protection": 3,
+    "flags": [ "OVERSIZE", "HOOD", "OUTER", "ALLOWS_TAIL_SNAKE" ]
+  }
+]
