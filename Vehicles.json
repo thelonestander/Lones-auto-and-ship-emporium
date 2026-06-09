@@ -2620,5 +2620,514 @@
         "part": "frame_se"
       }
     ]
+  },
+  {
+    "id": "ufo",
+    "type": "vehicle",
+    "name": "UFO",
+    "parts": [
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_vertical_2", "seat_leather", "seatbelt", "afs_control_station", "minireactor", "engine_electric_super", "floodlight" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_cross", "aisle_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "parts": [ "frame_cross", "hdstowboard_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_cross", "aisle_horizontal", "storage_battery", "solar_panel_v3", "hover_repulsor" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "parts": [ "frame_cross", "aisle_horizontal" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_cross", "aisle_horizontal", "turret_mount", { "part": "mounted_plasma_gun", "ammo": 50, "ammo_qty": [ 0, 25 ] }, "turret_autoloader" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "parts": [ "frame_cross", "aisle_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_cross", "aisle_horizontal", "storage_battery", "solar_panel_v3", "hover_repulsor" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_cross", "hdstowboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_cross", "hddoor_opaque" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_right", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_right", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_right", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 1,
+        "y": -2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_left", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_left", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -1,
+        "y": -2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_left", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 2,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 1,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -1,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -2,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -3,
+        "y": -3,
+        "part": "hdframe_sw"
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 3,
+        "part": "hdframe_se"
+      },
+      {
+        "x": -2,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "part": "hdframe_ne"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -3,
+        "part": "hdframe_nw"
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -2,
+        "y": -2,
+        "part": "hdframe_sw"
+      },
+      {
+        "x": 2,
+        "y": -2,
+        "part": "hdframe_nw"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "part": "hdframe_ne"
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "part": "hdframe_se"
+      }
+    ]
+  },
+  {
+    "id": "wrecked_ufo",
+    "type": "vehicle",
+    "name": "UFO",
+    "parts": [
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_vertical_2", "seat_leather", "seatbelt", "afs_control_station", "minireactor", "engine_electric_super", "floodlight" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_cross", "aisle_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "part": "frame_cross"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_cross", "aisle_horizontal" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_cross", "aisle_horizontal", "turret_mount", { "part": "mounted_plasma_gun", "ammo": 50, "ammo_qty": [ 0, 25 ] }, "turret_autoloader" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "part": "frame_cross"
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_cross", "aisle_horizontal", "storage_battery", "solar_panel_v3", "hover_repulsor" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_cross", "hdstowboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_cross", "hddoor_opaque" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_cross", "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_cross", "door_motor" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_cross", "door_motor" ]
+      },
+      {
+        "x": 1,
+        "y": -2,
+        "parts": [ "frame_cross", "door_motor" ]
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_left", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": -1,
+        "y": -2,
+        "parts": [ "frame_cross", "reinforced_windshield_vertical_left", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "reinforced_windshield_horizontal_front", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "reinforced_windshield_vertical_right", "v_hdshutter", "door_motor" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "part": "aisle_horizontal"
+      },
+      {
+        "x": 2,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 1,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -1,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -2,
+        "y": -3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -3,
+        "y": -3,
+        "part": "hdframe_sw"
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": -3,
+        "y": 3,
+        "part": "hdframe_se"
+      },
+      {
+        "x": -2,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -1,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -2,
+        "part": "hdframe_horizontal"
+      },
+      {
+        "x": 3,
+        "y": -3,
+        "part": "hdframe_nw"
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "part": "hdframe_vertical"
+      },
+      {
+        "x": -2,
+        "y": -2,
+        "part": "hdframe_sw"
+      },
+      {
+        "x": 2,
+        "y": -2,
+        "part": "hdframe_nw"
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "part": "hdframe_se"
+      }
+    ]
   }
 ]

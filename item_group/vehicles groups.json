@@ -5,7 +5,8 @@
     "vehicles": [
       [ "aegis_12", 200 ],
 	  [ "lonestar", 100 ],
-	  [ "warhawk", 100 ]
+	  [ "warhawk", 100 ],
+	  [ "ufo", 50 ]
     ]
   },
   {
@@ -49,6 +50,6 @@
   {
     "type": "vehicle_group",
     "id": "crashed_aircraft",
-    "vehicles": [ [ "lonestar_wreck", 80 ] ]
+    "vehicles": [ [ "lonestar_wreck", 80 ], [ "wrecked_ufo", 50 ] ]
   }
 ]
