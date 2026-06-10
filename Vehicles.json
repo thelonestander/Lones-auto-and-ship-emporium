@@ -3129,5 +3129,187 @@
         "part": "hdframe_se"
       }
     ]
+  },
+  {
+    "id": "hover_police",
+    "type": "vehicle",
+    "name": "Hover cop car mk.1.",
+    "parts": [
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_vertical_2", "seat", "seatbelt", "vehicle_clock", "vehicle_alarm", "horn_car", "roof", "afs_control_station" ]
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_vertical_2", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_vertical", "door_vertical_left", "v_hdshutter" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_vertical", "seat", "seatbelt", "roof" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_vertical_2", "roof", "light_red", "board_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "parts": [ "frame_vertical_2", "roof", "floodlight", "door_internal" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_vertical", "door_opaque" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_vertical", "roof", "light_blue", "board_horizontal" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "reinforced_windshield_horizontal_front", "v_hdshutter", "medium_storage_battery" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "reinforced_windshield_horizontal_front", "v_hdshutter", "omnicam", "engine_electric_large" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "parts": [ "frame_vertical", "reinforced_windshield_nw", "v_hdshutter" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "frame_vertical", "reinforced_windshield_horizontal_front", "v_hdshutter" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_horizontal", "alternator_truck", "halfboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "parts": [ "frame_nw", "headlight_reinforced", "halfboard_nw" ]
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "parts": [ "frame_ne", "halfboard_horizontal" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_vertical", "hover_repulsor", "board_vertical", "omnicam" ]
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "parts": [ "frame_vertical", "roof", "seat", "seatbelt" ]
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "parts": [ "frame_vertical", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "parts": [ "frame_vertical", "board_vertical" ]
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "parts": [ "frame_vertical", "roof", "seat", "seatbelt" ]
+      },
+      {
+        "x": -4,
+        "y": -1,
+        "parts": [ "frame_horizontal", "board_sw" ]
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "parts": [ "frame_horizontal", "board_horizontal" ]
+      },
+      {
+        "x": -4,
+        "y": 1,
+        "parts": [ "frame_horizontal", "door_opaque", "omnicam" ]
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "parts": [ "frame_horizontal", "board_horizontal" ]
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "parts": [ "frame_ne", "headlight_reinforced", "halfboard_ne" ]
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "parts": [ "frame_vertical", "reinforced_windshield_ne", "v_hdshutter" ]
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "parts": [ "frame_vertical", "door_vertical_right", "black_box", "door_motor", "v_hdshutter" ]
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "parts": [ "frame_vertical", "door_opaque" ]
+      },
+      {
+        "x": -2,
+        "y": 3,
+        "parts": [ "frame_vertical", "hover_repulsor", "board_vertical", "omnicam" ]
+      },
+      {
+        "x": -3,
+        "y": 3,
+        "parts": [ "frame_vertical", "board_vertical" ]
+      },
+      {
+        "x": -4,
+        "y": 3,
+        "parts": [ "frame_se", "board_se" ]
+      }
+    ]
   }
 ]

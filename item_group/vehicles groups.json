@@ -22,7 +22,8 @@
     "id": "highway",
     "vehicles": [
       [ "military_short_semi", 300 ],
-	  [ "mobile_command_unit", 300 ]
+	  [ "mobile_command_unit", 300 ],
+	  [ "hover_police", 100 ]
     ]
   },
   {
@@ -38,6 +39,7 @@
     "id": "city_vehicles",
     "vehicles": [
       [ "hover_ambulance_mk1", 300 ],
+	  [ "hover_police", 300 ]
     ]
   },
   {
@@ -51,5 +53,10 @@
     "type": "vehicle_group",
     "id": "crashed_aircraft",
     "vehicles": [ [ "lonestar_wreck", 80 ], [ "wrecked_ufo", 50 ] ]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "police_pileup",
+    "vehicles": [ [ "hover_police", 400 ] ]
   }
 ]
