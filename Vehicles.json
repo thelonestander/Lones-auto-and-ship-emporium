@@ -3817,5 +3817,252 @@
         "parts": [ "frame_cross", "heavy_duty_military_osprey_rotors", "roof", "NBC_seal", "aisle_horizontal", "atomic_lamp" ]
       }
     ]
+  },
+  {
+    "id": "atomic_heli_v2",
+    "type": "vehicle",
+    "name": "Atomic helicopter v2",
+    "parts": [
+      {
+        "x": -3,
+        "y": 1,
+        "parts": [ "frame_cross", "roof", "seat", "seatbelt_heavyduty" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "parts": [ "frame_cross", "roof", "door_internal", "medium_storage_battery" ]
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "parts": [ "frame_ne", "windshield_horizontal_front_edge" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_cross", "seat", "controls", "dashboard", "roof", "seatbelt_heavyduty" ]
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "parts": [ "frame_ne", "windshield_ne_edge" ]
+      },
+      {
+        "x": -3,
+        "y": 3,
+        "parts": [ "frame_se", "board_vertical" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_vertical", "roof", "board_vertical" ]
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "parts": [ "frame_cross", "roof", "aisle_horizontal", "solar_panel_v2" ]
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "parts": [ "frame_vertical", "roof", "board_vertical" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "windshield" ]
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "parts": [ "frame_nw", "roof", "seat", "seatbelt_heavyduty" ]
+      },
+      {
+        "x": -2,
+        "y": 3,
+        "parts": [ "frame_vertical", "door_opaque" ]
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "parts": [ "frame_sw", "board_horizontal", "engine_electric_enhanced" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "windshield" ]
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "parts": [ "frame_se", "board_horizontal", "engine_electric_enhanced" ]
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "parts": [ "frame_ne", "roof", "seat", "seatbelt_heavyduty" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_cross", "roof", "aisle_horizontal", "solar_panel_v2" ]
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_cross", "seat", "controls", "dashboard", "roof", "seatbelt_heavyduty" ]
+      },
+      {
+        "x": -7,
+        "y": 1,
+        "parts": [ "frame_vertical", "halfboard_vertical" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_nw", "windshield_horizontal_front_edge" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_cross", "roof", "stowboard_horizontal" ]
+      },
+      {
+        "x": -6,
+        "y": 1,
+        "parts": [ "frame_vertical", "halfboard_vertical" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_cross", "aisle_vertical", "aisle_lights", "roof", "heavy_duty_military_rotor", "medium_storage_battery" ]
+      },
+      {
+        "x": -4,
+        "y": 1,
+        "parts": [ "frame_cross", "roof", "board_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "parts": [ "frame_vertical", "windshield_ne" ]
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_cross", "medium_storage_battery", "roof", "aisle_vertical" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_vertical", "windshield_nw" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_cross", "roof", "stowboard_horizontal" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "frame_horizontal", "windshield_horizontal_front_edge" ]
+      },
+      {
+        "x": -5,
+        "y": 1,
+        "parts": [ "frame_vertical", "halfboard_vertical", "arc_reactor" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "frame_horizontal", "windshield" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "parts": [ "frame_nw", "windshield_nw_edge" ]
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "parts": [ "frame_sw", "board_vertical" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_vertical", "roof", "door_opaque" ]
+      },
+      {
+        "x": -4,
+        "y": -1,
+        "parts": [ "frame_sw", "board_sw" ]
+      },
+      {
+        "x": -4,
+        "y": 3,
+        "parts": [ "frame_se", "board_se" ]
+      },
+      {
+        "x": -8,
+        "y": 1,
+        "parts": [ "frame_vertical", "halfboard_vertical" ]
+      },
+      {
+        "x": -8,
+        "y": 2,
+        "parts": [ "frame_horizontal", "halfboard_cover" ]
+      },
+      {
+        "x": -8,
+        "y": 0,
+        "parts": [ "frame_horizontal", "halfboard_cover" ]
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "parts": [ "frame_sw", "halfboard_sw" ]
+      },
+      {
+        "x": -5,
+        "y": 2,
+        "parts": [ "frame_se", "halfboard_se" ]
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "part": "xlframe_vertical"
+      },
+      {
+        "x": -1,
+        "y": -2,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 4,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 5,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "parts": [ "frame_vertical", "halfboard_vertical", "turret_mount", { "part": "mounted_25mm_rotary_cannon", "ammo": 50, "ammo_qty": [ 0, 0 ] }, "turret_autoloader" ]
+      },
+      {
+        "x": -1,
+        "y": -3,
+        "parts": [ "frame_horizontal", "halfboard_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "parts": [ "frame_vertical", "halfboard_vertical", "turret_mount", "turret_autoloader", { "part": "mounted_25mm_rotary_cannon", "ammo": 50, "ammo_qty": [ 0, 0 ] } ]
+      }
+    ]
   }
 ]

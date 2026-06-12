@@ -8,6 +8,7 @@
 	  [ "warhawk", 100 ],
 	  [ "ufo", 50 ],
 	  [ "prototype_osprey", 100 ],
+	  [ "atomic_heli_v2", 100 ]
     ]
   },
   {
@@ -16,7 +17,8 @@
     "//": "Lower chance of wrecked helis, include planes and other aircraft",
     "vehicles": [
       [ "aegis_12", 500 ],
-	  [ "single_seater_jet", 700 ]
+	  [ "single_seater_jet", 700 ],
+	  [ "atomic_heli_v2", 700 ]
     ]
   },
   {
