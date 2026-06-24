@@ -6,7 +6,7 @@
     "authors": [ "thelonestander" ],
     "description": "A mod that adds new cars to BN!",
     "category": "content",
-    "dependencies": [ "bn", "aftershock", "Cata++" ]
+    "dependencies": [ "bn", "aftershock", "Cata++", "lones atomic additions" ]
   }
 ]
 
