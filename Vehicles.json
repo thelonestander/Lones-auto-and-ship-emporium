@@ -4061,5 +4061,208 @@
         "part": "xlframe_vertical"
       }
     ]
+  },
+  {
+    "id": "hover_fire_engine",
+    "type": "vehicle",
+    "name": "Hover Fire Engine",
+	"color_palette": "firetruck_standard",
+    "parts": [
+      {
+        "x": -5,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical" ]
+      },
+      {
+        "x": -4,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical", "hover_repulsor" ]
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical", "omnicam" ]
+      },
+      {
+        "x": -2,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "floodlight", "board_vertical" ]
+      },
+      {
+        "x": -1,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical" ]
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "door", "hover_repulsor" ]
+      },
+      {
+        "x": 1,
+        "y": -2,
+        "parts": [ "frame_horizontal", "roof", "turret_mount", { "part": "watercannon", "ammo": 50, "ammo_qty": [ 0, 100 ] }, "board_nw" ]
+      },
+      {
+        "x": -5,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", "storage_battery", "door_shutter" ]
+      },
+      {
+        "x": -4,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "trunk" ]
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "trunk" ]
+      },
+      {
+        "x": -2,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "light_red", "seat", "seatbelt" ]
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", "seat", "seatbelt" ]
+      },
+      {
+        "x": 0,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", "seat", "seatbelt", "dashboard", "controls", "cam_control" ]
+      },
+      {
+        "x": 1,
+        "y": -1,
+        "parts": [ "frame_horizontal", "roof", "windshield", "headlight", "floodlight" ]
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", "storage_battery", "door_shutter", "omnicam" ]
+      },
+      {
+        "x": -4,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "trunk" ]
+      },
+      {
+        "x": -3,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "aisle_horizontal" ]
+      },
+      {
+        "x": -2,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "lit_aisle_horizontal" ]
+      },
+      {
+        "x": -1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", "aisle_horizontal" ]
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", "light_red", "trunk", "recharge_station" ]
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "parts": [ "frame_horizontal", "roof", "windshield", "horn_big", "engine_electric_large", "storage_battery", "omnicam" ]
+      },
+      {
+        "x": -5,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", "storage_battery", "door_shutter" ]
+      },
+      {
+        "x": -4,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "trunk" ]
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "trunk" ]
+      },
+      {
+        "x": -2,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", { "part": "tank", "fuel": "water" }, "light_red", "seat", "seatbelt" ]
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", "seat", "seatbelt" ]
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", "seat", "seatbelt", "dashboard", "controls", "omnicam" ]
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "parts": [ "frame_horizontal", "roof", "windshield", "headlight", "floodlight" ]
+      },
+      {
+        "x": -5,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical" ]
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical", "hover_repulsor" ]
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical", "beeper", "omnicam" ]
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "floodlight", "board_vertical" ]
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "board_vertical" ]
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "door", "hover_repulsor" ]
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "parts": [ "frame_horizontal", "roof", "turret_mount", { "part": "watercannon", "ammo": 50, "ammo_qty": [ 0, 100 ] }, "board_ne" ]
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "parts": [ "frame_nw", "board_nw" ]
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "parts": [ "frame_ne", "board_ne" ]
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "parts": [ "frame_horizontal", "board_horizontal_front" ]
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "part": "xlframe_vertical"
+      }
+    ]
   }
 ]

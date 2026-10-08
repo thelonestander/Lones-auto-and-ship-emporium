@@ -43,7 +43,8 @@
     "id": "city_vehicles",
     "vehicles": [
       [ "hover_ambulance_mk1", 300 ],
-	  [ "hover_police", 300 ]
+	  [ "hover_police", 300 ],
+	  [ "hover_fire_engine", 100 ]
     ]
   },
   {
@@ -62,5 +63,10 @@
     "type": "vehicle_group",
     "id": "police_pileup",
     "vehicles": [ [ "hover_police", 400 ] ]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "fire_station_vehicles",
+    "vehicles": [ [ "hover_fire_engine", 200 ] ]
   }
 ]
