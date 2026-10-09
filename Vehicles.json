@@ -298,7 +298,7 @@
       {
         "x": -8,
         "y": -3,
-        "parts": [ "hdframe_horizontal", "hdroof" ]
+        "parts": [ "hdframe_horizontal", "hdroof", "cargo_space" ]
       },
       {
         "x": -8,
