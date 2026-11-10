@@ -11,7 +11,7 @@
 	"vehicle": "prototype_glider",
     "items": {
       "both": {
-        "items": [ "tux", "dress_shoes", "socks", "gold_watch", "undershirt", "sword_carbon", "armored_cloak" ],
+        "items": [ "tux", "dress_shoes", "socks", "gold_watch", "ear_plugs", "undershirt", "sword_carbon", "armored_cloak" ],
         "entries": [ { "item": "wrist_comp_control" } ]
       },
       "male": [ "briefs", "collarpin", "diamond_ring" ],
