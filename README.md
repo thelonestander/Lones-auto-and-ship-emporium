@@ -8,13 +8,15 @@ Adds new vehicles to the game Bright Nights
 
 <img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/035dee9b-a668-49ed-9ce7-9fe82243c7f2" />
 
-Hover cop car
-Hover ambulance
-Hover fire truck
-Warhawk
-UFO
-The Aegis
-Prototype osprey 77
-Lonestar
-Atomic heli V2
-Prototype glider
+- Hover cop car
+- Hover ambulance
+- Hover fire truck
+- Warhawk
+- UFO
+- The Aegis
+- Prototype osprey 77
+- Lonestar
+- Atomic heli V2
+- Prototype glider
+- Single seater jet
+- Military short semi
