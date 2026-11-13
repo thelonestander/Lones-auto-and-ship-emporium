@@ -20,3 +20,4 @@ Adds new vehicles to the game Bright Nights
 - Prototype glider
 - Single seater jet
 - Military short semi
+- Mobile command unit
