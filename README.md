@@ -6,12 +6,15 @@ ASK FOR PERMISSION TO USE OR EDIT OR COPY ANYTHING IN THIS MOD OR MY OTHER MODS 
 
 Adds new vehicles to the game Bright Nights
 
-Hover humvee
+<img width="1920" height="1080" alt="Screenshot (603)" src="https://github.com/user-attachments/assets/035dee9b-a668-49ed-9ce7-9fe82243c7f2" />
 
-The observer
-
-SWAT command unit 
-
-Glider (from spiderman)
-
-A new hover ambulance (based on maxtech from cyberpunk) 
+Hover cop car
+Hover ambulance
+Hover fire truck
+Warhawk
+UFO
+The Aegis
+Prototype osprey 77
+Lonestar
+Atomic heli V2
+Prototype glider
